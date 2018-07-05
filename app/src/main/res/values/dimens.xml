@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largestText">24sp</dimen>
+    <dimen name="largeText">22sp</dimen>
+    <dimen name="mediumText">18sp</dimen>
+    <dimen name="smallText">14sp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="separator">2dp</dimen>
+    <dimen name="width">72dp</dimen>
+    <dimen name="eight">8</dimen>
+    <dimen name="ten">10</dimen>
+    <dimen name="ninety">90</dimen>
+    <dimen name="one">1</dimen>
+    <dimen name="zero">0dp</dimen>
+</resources>
